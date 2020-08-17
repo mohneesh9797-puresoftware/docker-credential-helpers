@@ -4,6 +4,9 @@
   language: go
   dist: trusty
   osx_image: xcode10.1
+  arch:
+      - amd64
+      - arm64
   os:
     - linux
     - osx
